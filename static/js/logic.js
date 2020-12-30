@@ -96,4 +96,5 @@ d3.json(url30Days, function(data) {
         <h3>Coordinates : [${long}, ${lat}] </h3>`)
         .addTo(myMap)
     }
+    
 });
